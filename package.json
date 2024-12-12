@@ -21,6 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
@@ -28,8 +29,8 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
-    "production": [
+  "browserslist": [
+    
       ">0.2%",
       "not dead",
       "not op_mini all"
@@ -39,5 +40,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    
   }
-}
+  
+
